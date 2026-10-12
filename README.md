@@ -115,7 +115,6 @@ The platform was designed so the intelligence layer is not tightly coupled to a 
 Supported or prepared provider strategies include:
 
 - OpenAI
-- Claude
 - Gemini
 - Ollama
 - Mock providers for development and testing
